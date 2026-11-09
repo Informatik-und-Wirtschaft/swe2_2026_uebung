@@ -17,7 +17,4 @@ Wir testen folgendes Procedere:
 
 4. `feature/xyz` pushen (`git push --force-with-lease -u origin feature/xyz`) und dann `Pull request` für den FFM nach `main` in *GitHub* erstellen
 
-JF: Änderung in main
-JF: noch eine Änderung in main
-
-
+   Ich lerne gerade Git (Son Yong)
