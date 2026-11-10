@@ -25,10 +25,12 @@ Wir testen folgendes Procedere:
 JF: Änderung in main
 JF: noch eine Änderung in main
 
-
-
-Sa: Änderung in der branch
+Sa: Änderung in der   
    Ich lerne gerade Git (Son Yong)
 
 --------
 Übung B
+
+ICH BIN MÜDE
+
+
