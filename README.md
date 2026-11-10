@@ -36,3 +36,13 @@ Sa: Änderung in der branch
 LP: Hier meine Aenderungen (in der Zeile in der alle schreiben)
 - erstes Commit main
 - zweites Commit main
+
+
+
+
+
+
+
+
+
+Hier hab ich auch was geaendert
