@@ -33,5 +33,6 @@ Sa: Änderung in der branch
 --------
 Übung B
 
+LP: Hier meine Aenderungen (in der Zeile in der alle schreiben)
 - erstes Commit main
 - zweites Commit main
