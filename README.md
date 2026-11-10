@@ -16,6 +16,10 @@ Wir testen folgendes Procedere:
     Dieser Prozess wiederholt sich, bis alle Commits des Feature-Branches erfolgreich "neu angewendet" wurden. --> Commit-Messages können nicht verändert werden!
 
 4. `feature/xyz` pushen (`git push --force-with-lease -u origin feature/xyz`) und dann `Pull request` für den FFM nach `main` in *GitHub* erstellen
+
+--------
+Übung A
+
 5. BN: Uebung
 
 JF: Änderung in main
@@ -25,3 +29,6 @@ JF: noch eine Änderung in main
 
 Sa: Änderung in der branch
    Ich lerne gerade Git (Son Yong)
+
+--------
+Übung B
