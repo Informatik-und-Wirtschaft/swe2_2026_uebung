@@ -29,6 +29,8 @@ Wir testen folgendes Procedere:
 JF: Änderung in main
 JF: noch eine Änderung in main
 
+Sa: Änderung in der   
+   Ich lerne gerade Git (Son Yong)
 Sa: Änderung in der branch
 Ich lerne gerade Git (Son Yong)
 
@@ -36,6 +38,9 @@ Hier war Elwira
 
 --------
 Übung B
+
+ICH BIN MÜDE
+
 
 - erstes Commit main
 - zweites Commit main
