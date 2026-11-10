@@ -39,6 +39,19 @@ Hier war Elwira
 --------
 Übung B
 
+LP: Hier meine Aenderungen (in der Zeile in der alle schreiben)
+- erstes Commit main
+- zweites Commit main
+
+
+
+
+
+
+
+
+
+Hier hab ich auch was geaendert
 ICH BIN MÜDE
 
 
