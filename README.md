@@ -25,6 +25,7 @@ Wir testen folgendes Procedere:
 
 5. BN: Uebung
 
+   Ich lerne gerade Git (Son Yong)
 JF: Änderung in main
 JF: noch eine Änderung in main
 
